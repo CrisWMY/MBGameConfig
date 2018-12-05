@@ -9,5 +9,7 @@
   "gameOverRule4":"10,2,4,6,8",
   "uiRuleIndex":1,
   "uiRule1":2,
-  "uiRule2":3
+  "uiRule2":3,
+  "protectIAPNew":50,
+  "IAPShowRule":5
 }
