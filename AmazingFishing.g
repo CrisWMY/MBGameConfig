@@ -7,7 +7,7 @@
   "gameOverRule2":"10,3,5,8",
   "gameOverRule3":"10,3,5,7,9",
   "gameOverRule4":"10,2,4,6,8",
-  "uiRuleIndex":1,
+  "uiRuleIndex":2,
   "uiRule1":2,
   "uiRule2":3,
   "protectIAPNew":50,
