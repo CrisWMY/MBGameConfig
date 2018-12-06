@@ -1,7 +1,7 @@
 {
   "protectReward":true,
-  "protectNewUser":5,
-  "protectNewUserUI":0,
+  "protectNewUser":15,
+  "protectNewUserUI":15,
   "gameOverRuleIndex":1,
   "gameOverRule1":"10,3,7,9",
   "gameOverRule2":"10,3,5,8",
