@@ -10,6 +10,6 @@
   "uiRuleIndex":1,
   "uiRule1":2,
   "uiRule2":3,
-  "protectIAPNew":35,
-  "IAPShowRule":5
+  "protectIAPNew":3,
+  "IAPShowRule":2
 }
