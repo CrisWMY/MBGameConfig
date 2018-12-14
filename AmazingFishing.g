@@ -11,5 +11,9 @@
   "uiRule1":2,
   "uiRule2":3,
   "protectIAPNew":20,
-  "IAPShowRule":5
+  "IAPShowRule":5,
+  "tagUserHandle":1,
+  "tagUserProtect":50,
+  "tagUserRewardRate":0.15,
+  "tagUserInterRate":0.3
 }
