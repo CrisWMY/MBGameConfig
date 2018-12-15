@@ -13,7 +13,7 @@
   "protectIAPNew":20,
   "IAPShowRule":6,
   "tagUserHandle":false,
-  "tagUserProtect":50,
+  "tagUserProtect":15,
   "tagUserRewardRate":0.15,
   "tagUserInterRate":0.3
 }
