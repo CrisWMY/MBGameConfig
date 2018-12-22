@@ -1,8 +1,8 @@
 {
-  "protectReward":false,
+  "protectReward":true,
   "protectNewUser":5,
   "adrule":2,
-  "tagUserHandle":true,
+  "tagUserHandle":false,
   "tagUserProtect":50,
   "tagUserRewardRate":0.15,
   "tagUserInterRate":0.3
