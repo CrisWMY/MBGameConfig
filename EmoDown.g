@@ -1,5 +1,5 @@
 {
-  "protectReward":true,
+  "protectReward":false,
   "protectNewUser":5,
   "adrule":2,
   "tagUserHandle":false,
