@@ -1,6 +1,6 @@
 {
-  "protectReward":false,
-  "protectNewUser":5,
+  "protectReward":true,
+  "protectNewUser":0,
   "adrule":2,
   "tagUserHandle":false,
   "tagUserProtect":50,
