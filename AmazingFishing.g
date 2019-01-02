@@ -1,7 +1,7 @@
 {
   "protectReward":false,
   "protectNewUser":10,
-  "protectNewUserUI":10,
+  "protectNewUserUI":0,
   "gameOverRuleIndex":3,
   "gameOverRule1":"10,3,7,9",
   "gameOverRule2":"10,3,5,8",
@@ -12,7 +12,7 @@
   "uiRule2":3,
   "protectIAPNew":20,
   "IAPShowRule":6,
-  "tagUserHandle":false,
+  "tagUserHandle":true,
   "tagUserProtect":50,
   "tagUserRewardRate":0.15,
   "tagUserInterRate":0.3
