@@ -16,7 +16,7 @@
   "tagUserInterRate":0.3,
   
   "intersitialPlanB":false,
-  "version":0,
+  "version":1,
   "id0":0,
   "id1":0,
   "protectIAPNew":20,
