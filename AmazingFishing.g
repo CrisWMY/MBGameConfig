@@ -1,7 +1,7 @@
 {
   "protectReward":false,
   "protectNewUser":10,
-  "protectNewUserUI":0,
+  "protectNewUserUI":10,
   "gameOverRuleIndex":3,
   "gameOverRule1":"10,3,7,9",
   "gameOverRule2":"10,3,5,8",
@@ -10,10 +10,25 @@
   "uiRuleIndex":2,
   "uiRule1":2,
   "uiRule2":3,
-  "protectIAPNew":20,
-  "IAPShowRule":6,
-  "tagUserHandle":true,
+  "tagUserHandle":false,
   "tagUserProtect":50,
   "tagUserRewardRate":0.15,
-  "tagUserInterRate":0.3
+  "tagUserInterRate":0.3,
+  
+  "intersitialPlanB":false,
+  "version":0,
+  "id0":0,
+  "id1":0,
+  "protectIAPNew":20,
+  "IAPShowRule":6,
+  "isThreeBtnCloud":true,
+  "threeBtnLevelCondition":20,
+  "threeBtnCDConditionLate":8,
+  "threeBtnCDConditionEarly":3,
+  "BossFishTargetTurn": 7,
+  "BossFishMaxTurn": 8,
+  "EventTargetTurn": 2,
+  "EventMaxTurn": 9,
+  "vipBtnRule": 6,
+  "seagullRule": 10
 }
